@@ -38,8 +38,7 @@ Notes-App/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   └── screenshot.png
+|__screenshot.png
 └── README.md
 ```
 
